@@ -138,8 +138,9 @@ public class JavaRunner {
 
 
 //        System.out.println(Subway.multiTrip(s1A1 , s1D5 ));
-        System.out.println(Subway.multiTrip(s1Y1 , s3F2 ));
-        System.out.println(Subway.multiTrip(s4E2 , s5A6 ));
+//        System.out.println(Subway.multiTrip(s1Y1 , s3F2 ));
+        System.out.println(Subway.multiTrip(s4E2 , s2F1));
+        System.out.println(Subway.multiTrip(s4E2 , s5C2));
     }
 
 }
